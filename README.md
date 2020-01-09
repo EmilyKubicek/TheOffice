@@ -15,7 +15,7 @@ Same as above but in plot form:
 
 ###
 ###
-Saracasm in The Office by character:
+Saracasm by character:
 #####
 ![alt text](https://pbs.twimg.com/media/EN2WMCgX0AANKWV?format=jpg&name=small)
 
