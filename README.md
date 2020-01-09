@@ -1,5 +1,5 @@
-# The Office
-R scripts of sentiment analyses - data retrieved from the schRute package (i.e. word clouds, sarcasm analysis)
+# Some 'The Office' Analyses
+R scripts of sentiment analyses - data retrieved from the schRute package
 ###
 ## Example results/visualizations
 ###
