@@ -1,5 +1,5 @@
 # Some 'The Office' Analyses
-R scripts of sentiment analyses - data retrieved from the schRute package
+R scripts of sentiment analysis - data retrieved from the schRute package
 ###
 ## Example results/visualizations
 ###
