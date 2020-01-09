@@ -1,2 +1,2 @@
 # TheOffice
-R scripts of analyses done from the schRute package
+R scripts of sentiment analyses done from the schRute package (i.e. word clouds, sarcasm analysis)
